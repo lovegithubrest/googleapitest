@@ -10,5 +10,5 @@ This Project shows how to use Google Speech API with your local server.
 	
 <h4>3. Copy google_speech_test.php to your local server with glib library.</h4>
 
-<h4>4. Open <a href="http:\\localhost\google_speech_test.php">http:\\\\localhost\\google_speech_test.php</a>.</h4>
+<h4>4. Open <a href="http:\\localhost\google_speech_test.php">http:\\localhost\google_speech_test.php</a>.</h4>
 
