@@ -6,7 +6,7 @@ This Project shows how to use Google Speech API with your local server.
 
 <h4>2. Copy the json file to your local server and set following environment path.</h4>
 	GOOGLE_APPLICATION_CREDENTIALS=<path of downloaded json file>
-	**example** D:\\service-account-credentials.json
+	**example** D:\service-account-credentials.json
 	
 <h4>3. Copy google_speech_test.php to your local server with glib library.</h4>
 
